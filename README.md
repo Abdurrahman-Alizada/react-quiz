@@ -7,3 +7,7 @@ How to use?
 3. Run command "npm install"
 
 4. Run command "npm start".
+
+Technology used:
+1. React
+2. Bootstrap 4
